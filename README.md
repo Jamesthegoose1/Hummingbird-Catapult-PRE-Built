@@ -1,6 +1,9 @@
 
 > Open this page at [https://jamesthegoose1.github.io/hummingbird-catapult-pre-built/](https://jamesthegoose1.github.io/hummingbird-catapult-pre-built/)
 
+I reccomend to download microbit-Ahh.hex and add it to your microbit by connecting it to your computer
+and clicking the button in the corner if on windows and drage the file into the storage
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
